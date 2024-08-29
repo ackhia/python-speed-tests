@@ -1,0 +1,22 @@
+annotated-types @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_fbh4enbns2/croot/annotated-types_1709542919423/work
+anyio @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_646d7rz2z6/croot/anyio_1706220176177/work
+click @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/click_1699239792454/work
+fastapi @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/fastapi_1707340605788/work
+fastapi-cli @ file:///home/conda/feedstock_root/build_artifacts/fastapi-cli_1722597621840/work
+h11 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_14h6x3q_k6/croot/h11_1706652288187/work
+idna @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2b_jn555_n/croot/idna_1714398852258/work
+markdown-it-py @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/markdown-it-py_1699239904229/work
+mdurl @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/mdurl_1699239487349/work
+pydantic @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b0i6bkso_m/croot/pydantic_1709577983881/work
+pydantic_core @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9fzsx664y3/croot/pydantic-core_1709573976356/work
+Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699240212223/work
+rich @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_6628g1yx0v/croot/rich_1720637500526/work
+setuptools==72.1.0
+shellingham @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/shellingham_1699241366751/work
+sniffio @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_a46njf828g/croot/sniffio_1705431298111/work
+starlette @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/starlette-recipe_1707340120337/work
+typer==0.12.4
+typer-slim==0.12.4
+typing_extensions @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0b3pj9yhn2/croot/typing_extensions_1715268854415/work
+uvicorn @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/uvicorn-split_1699294405042/work
+wheel==0.43.0
